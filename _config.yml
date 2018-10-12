@@ -20,7 +20,7 @@ BASE_PATH : http://belebear.com
 description : LincyLo
 title : LincyLo
 logo : /assets/images/avatar.jpg
-#cover : /assets/images/background-cover.jpg
+cover : /assets/images/background-cover1.jpg
 
 
 author:
